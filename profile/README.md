@@ -10,3 +10,6 @@ some list of what we mostly do are:
 - more will come
 
 We think that having a place to meet and talk with people of the same interest would be interesting
+
+This github will be use to store our opensource project or anything that seems a good thing to be shared, other than that we're keeping them private
+
